@@ -1,0 +1,11 @@
+C:\Users\stud305\source\repos\Fishing\bin\Debug\Fishing.exe.config
+C:\Users\stud305\source\repos\Fishing\bin\Debug\Fishing.exe
+C:\Users\stud305\source\repos\Fishing\bin\Debug\Fishing.pdb
+C:\Users\stud305\source\repos\Fishing\obj\Debug\Fishing.csproj.AssemblyReference.cache
+C:\Users\stud305\source\repos\Fishing\obj\Debug\Fishing.Properties.Resources.resources
+C:\Users\stud305\source\repos\Fishing\obj\Debug\Fishing.csproj.GenerateResource.cache
+C:\Users\stud305\source\repos\Fishing\obj\Debug\Fishing.csproj.CoreCompileInputs.cache
+C:\Users\stud305\source\repos\Fishing\obj\Debug\Fishing.exe
+C:\Users\stud305\source\repos\Fishing\obj\Debug\Fishing.pdb
+C:\Users\stud305\source\repos\Fishing\obj\Debug\Fishing.AutorizationForm.resources
+C:\Users\stud305\source\repos\Fishing\obj\Debug\Fishing.ProductForm.resources
